@@ -1,7 +1,5 @@
 # About Me
 
-<summary>👋 Hi, I’m <strong>Aashish Gurung</strong></summary>
-
 ### 📛 Certification Badges
 
 <!-- Flat-square style badges for quick visual scan -->
@@ -14,6 +12,12 @@
 ![Syntra AB Business Management](https://img.shields.io/badge/Syntra%20AB-Basic%20Business%20Management-555555?style=flat-square)
 ![CompTIA Security+ (In Progress)](https://img.shields.io/badge/CompTIA-Security%2B(Eval)-E7272D?style=flat-square&logo=comptia&logoColor=white)
 ![CompTIA A+ (In Progress)](https://img.shields.io/badge/CompTIA-A%2B(In%20Progress)-E7272D?style=flat-square&logo=comptia&logoColor=white)
+![CompTIA Network+ (In Progress)](https://img.shields.io/badge/CompTIA-Network%2B(In%20Progress)-E7272D?style=flat-square&logo=comptia&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Progress-212121?style=flat-square&logo=tryhackme&logoColor=white)
+![TryHackMe Cybersecurity Precourse 2025](https://img.shields.io/badge/TryHackMe-Cybersecurity%20Precourse%202025-212121?style=flat-square&logo=tryhackme&logoColor=white)
+![TryHackMe Cyber 101 2025](https://img.shields.io/badge/TryHackMe-Cyber%20101%202025-212121?style=flat-square&logo=tryhackme&logoColor=white)
+![TryHackMe Security Engineer](https://img.shields.io/badge/TryHackMe-Security%20Engineer-212121?style=flat-square&logo=tryhackme&logoColor=white)
+![TryHackMe DevSecOps](https://img.shields.io/badge/TryHackMe-DevSecOps-212121?style=flat-square&logo=tryhackme&logoColor=white)
 
 <!-- Optional status badges -->
 ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-FFA500?style=flat-square) ![Focus: Ethical Automation](https://img.shields.io/badge/Focus-Ethical%20Automation-6A1B9A?style=flat-square)
@@ -41,47 +45,22 @@
 - 👀 I’m passionate about all things **Information Technology**, especially **cybersecurity**, **automation**, and **data science**.  
   My vision is to eliminate child labor through intelligent automation and build digital bridges to a more ethical and equitable future.
 
-- 🌱 I’m currently sharpening my skills in:
-
-  - **Cybersecurity**, having completed the **Google Cybersecurity Certificate**, and continuing hands-on labs on **TryHackMe** (e.g. *Vulnerability Management with GSA*, progressing in **SOC Level 1**, **penetration testing**, **security engineering**). Preparing for the **CompTIA Security+** exam.
+- 🌱 ATM I am sharpening my cyber security skills on ![TryHackMe](https://img.shields.io/badge/TryHackMe--212121?style=flat-square&logo=tryhackme&logoColor=green)
+![TryHackMe Cybersecurity Precourse 2025](https://img.shields.io/badge/TryHackMe-Cybersecurity%20Precourse%202025-212121?style=flat-square&logo=tryhackme&logoColor=green)
+![TryHackMe Cybersecurity 101 2025](https://img.shields.io/badge/TryHackMe-Cyber%20101%202025-212121?style=flat-square&logo=tryhackme&logoColor=white)
+![TryHackMe Security Engineer](https://img.shields.io/badge/TryHackMe-Security%20Engineer-212121?style=flat-square&logo=tryhackme&logoColor=green)
+![TryHackMe DevSecOps](https://img.shields.io/badge/TryHackMe-DevSecOps-212121?style=flat-square&logo=tryhackme&logoColor=green)
   
-  - **Full-stack development**, having completed the **IBM Full Stack JavaScript Developer Certificate**, where I built and deployed a containerized React/Node.js app using **Docker** and **Kubernetes** on **IBM Cloud**. Currently working on my **Skyline App** 🍂[Live Demo](https://watashiaashishgurung.github.io/skyline-app/)🍁
-  
-  - **Advanced Data Analytics**, with a focus on EDA, hypothesis testing, machine learning models (like Naive Bayes and decision trees), and storytelling with data.
-
-  - **IT support fundamentals** (UCLL System & Network Administration course canceled).
-  - **CompTIA A+ (In Progress)** studying core hardware, OS, networking, and troubleshooting.
-
-- 💻 Currently working on:
-  - Publishing my upcoming short story collection *"If We All Would Be the Same, That Would Be Boring"* — launching **Sometime in 2026**
-  - Building **SOHO labs**: setting up small office/home office networks and practicing **subnetting**, **firewalls** and **VPN"s**
-  - Volunteering: repairing **electronic devices** and **household appliances**
-  - **Experimenting with VMs** (VirtualBox/VMware), using snapshots and isolated lab networks and other CS tools
+- 💻 Also doing volunteering work: repairing **electronic devices** and **household appliances** to get hands on exoecrience.
 
 - 💞️ I’m always open to collaboration on:
   - **Data analytics**, **DevSecOps**, **AI ethics**, **creative storytelling**, and **community tech education** projects
 
-- 📫 You can find me:
-  - Right here on **GitHub**
-  - Doing community work on **Twitch.tv**
-  - Talking tech and impact on **LinkedIn**
-  - And maybe even philosophizing with you in a voice channel on **Discord**
-
-- 😄 Pronouns: **Mr.**
-
 - ⚡ Fun fact:  
   *"Since the beginning of mankind, we’ve been trying to catch light inside a stone — innit?"*
 
-### 🌟 **Example Projects**
-
-<summary>Skyline Advanced Project</summary>
-
-Feel free to check out my <strong>Skyline project</strong>—a venture I’m particularly proud of. I’m sure you’ll like it!
-
-👉 [SkylineAdvanced Repository](https://github.com/watashiaashishgurung/SkylineAdvanced.git)
-
 <details>
-<summary>More Projects</summary>  
+<summary>Some past projects I worked on</summary>  
 
 <details>
 <summary>Software Development & Web Apps</summary>  
@@ -189,11 +168,11 @@ Feel free to check out my <strong>Skyline project</strong>—a venture I’m par
 
 <details>
 <summary>Hobby Projects</summary>  
-<details>
-<summary>Book Bansenjuku - Aftercolony 2025 161</summary>  
-  • [AWS kindle Store Bansenjuku - Aftercolony2025262](https://www.amazon.com/dp/B0DYVQ5D27?ref_=pe_93986420_775043100)
 
-</details>
+**Book Bansenjuku - Aftercolony 2025 161**
+
+  • [AWS Kindle Store Bansenjuku - Aftercolony 2025 161](https://www.amazon.com/dp/B0DYVQ5D27?ref_=pe_93986420_775043100)
+
 </details>
 </details>
 
