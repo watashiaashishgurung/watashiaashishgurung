@@ -50,6 +50,7 @@
 ![TryHackMe Cybersecurity 101 2025](https://img.shields.io/badge/TryHackMe-Cyber%20101%202025-212121?style=flat-square&logo=tryhackme&logoColor=white)
 ![TryHackMe Security Engineer](https://img.shields.io/badge/TryHackMe-Security%20Engineer-212121?style=flat-square&logo=tryhackme&logoColor=green)
 ![TryHackMe DevSecOps](https://img.shields.io/badge/TryHackMe-DevSecOps-212121?style=flat-square&logo=tryhackme&logoColor=green)
+![TryHackMe DevSecOps](https://img.shields.io/badge/TryHackMe-SOC-level-1-212121?style=flat-square&logo=tryhackme&logoColor=green)
   
 - 💻 Also doing volunteering work: repairing **electronic devices** and **household appliances** to get hands on exoecrience.
 
