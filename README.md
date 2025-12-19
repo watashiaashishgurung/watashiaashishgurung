@@ -18,6 +18,7 @@
 ![TryHackMe Cyber 101 2025](https://img.shields.io/badge/TryHackMe-Cyber%20101%202025-212121?style=flat-square&logo=tryhackme&logoColor=white)
 ![TryHackMe Security Engineer](https://img.shields.io/badge/TryHackMe-Security%20Engineer-212121?style=flat-square&logo=tryhackme&logoColor=white)
 ![TryHackMe DevSecOps](https://img.shields.io/badge/TryHackMe-DevSecOps-212121?style=flat-square&logo=tryhackme&logoColor=white)
+![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-212121?style=flat-square&logo=tryhackme&logoColor=white)
 
 <!-- Optional status badges -->
 ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-FFA500?style=flat-square) ![Focus: Ethical Automation](https://img.shields.io/badge/Focus-Ethical%20Automation-6A1B9A?style=flat-square)
@@ -50,7 +51,7 @@
 ![TryHackMe Cybersecurity 101 2025](https://img.shields.io/badge/TryHackMe-Cyber%20101%202025-212121?style=flat-square&logo=tryhackme&logoColor=white)
 ![TryHackMe Security Engineer](https://img.shields.io/badge/TryHackMe-Security%20Engineer-212121?style=flat-square&logo=tryhackme&logoColor=green)
 ![TryHackMe DevSecOps](https://img.shields.io/badge/TryHackMe-DevSecOps-212121?style=flat-square&logo=tryhackme&logoColor=green)
-![TryHackMe DevSecOps](https://img.shields.io/badge/TryHackMe-SOC-level-1-212121?style=flat-square&logo=tryhackme&logoColor=green)
+![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-212121?style=flat-square&logo=tryhackme&logoColor=green)
   
 - 💻 Also doing volunteering work: repairing **electronic devices** and **household appliances** to get hands on exoecrience.
 
