@@ -53,7 +53,7 @@
 ![TryHackMe DevSecOps](https://img.shields.io/badge/TryHackMe-DevSecOps-212121?style=flat-square&logo=tryhackme&logoColor=green)
 ![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-212121?style=flat-square&logo=tryhackme&logoColor=green)
   
-- 💻 Also doing volunteering work: repairing **electronic devices** and **household appliances** to get hands on exoecrience.
+- 💻 Also doing volunteering work: repairing **electronic devices** and **household appliances** to get hands on experience.
 
 - 💞️ I’m always open to collaboration on:
   - **Data analytics**, **DevSecOps**, **AI ethics**, **creative storytelling**, and **community tech education** projects
