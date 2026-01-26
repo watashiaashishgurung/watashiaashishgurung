@@ -19,7 +19,9 @@
 ![TryHackMe Security Engineer](https://img.shields.io/badge/TryHackMe-Security%20Engineer-212121?style=flat-square&logo=tryhackme&logoColor=white)
 ![TryHackMe DevSecOps](https://img.shields.io/badge/TryHackMe-DevSecOps-212121?style=flat-square&logo=tryhackme&logoColor=white)
 ![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-212121?style=flat-square&logo=tryhackme&logoColor=white)
-![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe-Web%20Fundamentals-212121?style=flat-square&logo=tryhackme&logoColor=white)
+![TryHackMe Web Fundamentals](https://img.shields.io/badge/TryHackMe-Web%20Fundamentals-212121?style=flat-square&logo=tryhackme&logoColor=white)
+![TryHackMe Jr Penetration Tester](https://img.shields.io/badge/TryHackMe-Jr%20Penetration%20Tester-212121?style=flat-square&logo=tryhackme&logoColor=white)
+
 
 <!-- Optional status badges -->
 ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-FFA500?style=flat-square) ![Focus: Ethical Automation](https://img.shields.io/badge/Focus-Ethical%20Automation-6A1B9A?style=flat-square)
@@ -53,7 +55,8 @@
 ![TryHackMe Security Engineer](https://img.shields.io/badge/TryHackMe-Security%20Engineer-212121?style=flat-square&logo=tryhackme&logoColor=green)
 ![TryHackMe DevSecOps](https://img.shields.io/badge/TryHackMe-DevSecOps-212121?style=flat-square&logo=tryhackme&logoColor=green)
 ![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-212121?style=flat-square&logo=tryhackme&logoColor=green)
-![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe-Web%20Fundamentals-212121?style=flat-square&logo=tryhackme&logoColor=white)
+![TryHackMe Web Fundamentals](https://img.shields.io/badge/TryHackMe-Web%20Fundamentals-212121?style=flat-square&logo=tryhackme&logoColor=white)
+![TryHackMe Jr Penetration Tester](https://img.shields.io/badge/TryHackMe-Jr%20Penetration%20Tester-212121?style=flat-square&logo=tryhackme&logoColor=white)
   
 - 💻 Also doing volunteering work: repairing **electronic devices** and **household appliances** to get hands on experience.
 
