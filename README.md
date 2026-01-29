@@ -1,6 +1,6 @@
 # About Me
 
-### 📛 Certification Badges
+### 📛 Certifications, Badges and Path completions
 
 <!-- Flat-square style badges for quick visual scan -->
 ![IBM Full-Stack JS Developer](https://img.shields.io/badge/IBM-Full--Stack%20JS%20Developer-052FAD?style=flat-square&logo=ibm&logoColor=white)
@@ -25,6 +25,7 @@
 
 <!-- Optional status badges -->
 ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-FFA500?style=flat-square) ![Focus: Ethical Automation](https://img.shields.io/badge/Focus-Ethical%20Automation-6A1B9A?style=flat-square)
+![TryHackMe SOC Level 2](https://img.shields.io/badge/TryHackMe-SOC%20Level%202-212121?style=flat-square&logo=tryhackme&logoColor=white)
 
 <!-- To switch style: replace style=flat-square with style=for-the-badge or style=plastic -->
 <!-- To adjust colors: change the hex after last dash before ?style -->
@@ -136,6 +137,10 @@
 <details>
 <summary>Google Data Analytics</summary>      
   • Cyclistic
+
+👉[Cyclistic repository](https://github.com/watashiaashishgurung/Cyclistic_Case_Study_Recommandations_and_Insights/blob/main/UPDATED_README.md)
+
+
 </details>
 </details>
 
@@ -178,7 +183,7 @@
 
 **Book Bansenjuku - Aftercolony 2025 161**
 
-  • [AWS Kindle Store Bansenjuku - Aftercolony 2025 161](https://www.amazon.com/dp/B0DYVQ5D27?ref_=pe_93986420_775043100)
+  • [AWS Kindle Store Bansenjuku - Aftercolony 2025 161](https://a.co/d/bcH1Q6E)
 
 </details>
 </details>
