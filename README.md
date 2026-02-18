@@ -69,6 +69,111 @@
 
 <details>
 <summary>Some past projects I worked on</summary>  
+<details>
+<summary>SOHO Projects (System & Network Engineering)</summary>
+
+<details>
+<summary>Home Network & Security Labs</summary>
+
+### 🌐 Home Network Configuration
+- Configured router (SSID, WPA2/WPA3, dual-band setup)
+- Implemented **network segmentation** (main vs guest network)
+- Reviewed DHCP assignments and device management
+
+### 🔐 Security Measures
+- Applied **MAC address filtering**
+- Tested device allow/deny behavior
+- Strengthened access control policies
+
+### 🔒 VPN & Privacy
+- Set up and tested **VPN connection**
+- Verified IP masking and encrypted traffic
+- Compared network behavior with and without VPN
+
+### 🚫 Ad Blocking & DNS Filtering
+- Implemented **network-wide ad blocking**
+- Tested DNS-based filtering across devices
+- Observed blocked domains and reduced tracking
+
+</details>
+
+<details>
+<summary>Hardware Upgrades & System Optimization</summary>
+
+### 💻 Laptop Upgrades
+- Installed **additional RAM (dual-channel configuration)**
+- Upgraded to **high-speed SSD (NVMe)**
+
+### ⚙️ System Improvements
+- Improved system responsiveness and boot times
+- Enhanced virtualization performance
+- Optimized storage allocation and disk usage
+
+</details>
+
+<details>
+<summary>Kali Linux & Hyprland System Journal</summary>
+
+<details>
+<summary>📅 February 2026 — Weekly System Engineering Log</summary>
+
+### 🖥️ Virtualization
+- Installed Kali Linux in VirtualBox
+- Configured NAT, Bridged, and Host-only networking
+- Learned host vs guest system behavior
+
+---
+
+### 🌐 Networking
+- Explored interfaces (`ifconfig`, `ip a`)
+- Analyzed loopback, virtual, and physical adapters
+- Understood multi-interface environments
+
+---
+
+### 💾 Disk Management
+- Shrunk Windows partition
+- Planned storage for dual-boot system
+- Evaluated backup strategies
+
+---
+
+### ⚙️ BIOS / UEFI
+- Configured boot priority (Windows vs Kali)
+- Prepared USB boot environment
+- Understood firmware-level control
+
+---
+
+### 🐧 Kali Linux (Bare Metal)
+- Installed Kali on dedicated partition
+- Updated system (`apt update && upgrade`)
+- Fixed NVIDIA drivers (`nvidia-smi`, kernel modules)
+
+---
+
+### 🧊 Desktop Environments
+- Tested GNOME and XFCE
+- Configured display managers (gdm, lightdm, sddm)
+- Navigated TTY sessions
+
+---
+
+### 🎨 Hyprland Setup
+- Installed Wayland compositor (Hyprland)
+- Used terminal-based workflows
+- Learned minimal environment configuration
+
+---
+
+### 🧾 Dotfiles
+- Modified:
+ (See <attachments> above for file contents. You may not need to search or read the file again.)
+</details>
+
+</details>
+
+</details>
 
 <details>
 <summary>Software Development & Web Apps</summary>  
