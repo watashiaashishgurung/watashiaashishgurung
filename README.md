@@ -23,13 +23,13 @@
 ![CompTIA Security+ (In Progress)](https://img.shields.io/badge/CompTIA-Security%2B(Eval)-E7272D?style=flat-square&logo=comptia&logoColor=white)
 ![CompTIA A+ (In Progress)](https://img.shields.io/badge/CompTIA-A%2B(In%20Progress)-E7272D?style=flat-square&logo=comptia&logoColor=white)
 ![CompTIA Network+ (In Progress)](https://img.shields.io/badge/CompTIA-Network%2B(In%20Progress)-E7272D?style=flat-square&logo=comptia&logoColor=white)
-
+[![TryHackMe – Advanced Endpoint Investigations](https://img.shields.io/badge/TryHackMe-Advanced%20Endpoint%20Investigations-1F3B73?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/hacktivities)
 
 
 <!-- Optional status badges -->
 ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-FFA500?style=flat-square) ![Focus: Ethical Automation](https://img.shields.io/badge/Focus-Ethical%20Automation-6A1B9A?style=flat-square)
 
-[![TryHackMe – Advanced Endpoint Investigations](https://img.shields.io/badge/TryHackMe-Advanced%20Endpoint%20Investigations-1F3B73?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/hacktivities)
+
 
 <!-- To switch style: replace style=flat-square with style=for-the-badge or style=plastic -->
 <!-- To adjust colors: change the hex after last dash before ?style -->
@@ -53,7 +53,11 @@
 - 👀 I’m passionate about all things **Information Technology**, especially **cybersecurity**, **automation**, and **data science**.  
   My vision is to eliminate child labor through intelligent automation and build digital bridges to a more ethical and equitable future.
 
-- 🌱 ATM I am sharpening my cyber security skills on [![TryHackMe – Advanced Endpoint Investigations](https://img.shields.io/badge/TryHackMe-Advanced%20Endpoint%20Investigations-1F3B73?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/hacktivities)
+- 🌱 ATM I am sharpening my cyber security skills on [![TryHackMe – Advanced Endpoint Investigations](https://img.shields.io/badge/TryHackMe-Advanced%20Endpoint%20Investigations-1F3B73?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/hacktivities), doing field research by following current affairs and global events, and staying open to finding answers to the mysteries of the world.
+  
+  ![Focus: Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-000000?style=flat-square&logo=securityscorecard&logoColor=white)
+  ![Research: Field Research](https://img.shields.io/badge/Research-Field%20Research-F2C300?style=flat-square&logoColor=black)
+  ![Tracking: Global Events](https://img.shields.io/badge/Tracking-Global%20Events-C62828?style=flat-square&logo=googleearth&logoColor=white)
   
 - 💻 Also doing volunteering work: repairing **electronic devices** and **household appliances** to get hands on experience.
 
