@@ -21,7 +21,7 @@
 ![TryHackMe SOC Level 2](https://img.shields.io/badge/TryHackMe-SOC%20Level%202-212121?style=flat-square&logo=tryhackme&logoColor=white)
 ![Focus: AI Security](https://img.shields.io/badge/Focus-AI%20Security-6A1B9A?style=flat-square)
 ![CompTIA Security+ (In Progress)](https://img.shields.io/badge/CompTIA-Security%2B(Eval)-E7272D?style=flat-square&logo=comptia&logoColor=white)
-![CompTIA A+ (In Progress)](https://img.shields.io/badge/CompTIA-A%2B(In%20Progress)-E7272D?style=flat-square&logo=comptia&logoColor=white)
+![CompTIA A+ (Completed)](https://img.shields.io/badge/CompTIA-A%2B(Completed)-4CAF50?style=flat-square&logo=comptia&logoColor=white)
 ![CompTIA Network+ (In Progress)](https://img.shields.io/badge/CompTIA-Network%2B(In%20Progress)-E7272D?style=flat-square&logo=comptia&logoColor=white)
 [![TryHackMe – Advanced Endpoint Investigations](https://img.shields.io/badge/TryHackMe-Advanced%20Endpoint%20Investigations-1F3B73?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/hacktivities)
 
